@@ -1,0 +1,7 @@
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Hello! You have just opened an issues. Please, follow the issue template.
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  Hello! Thank you to open a Pull Request. Please check out our contributing guidelines.
